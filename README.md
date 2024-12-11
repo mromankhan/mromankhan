@@ -2,11 +2,11 @@
 
 ---
 
-### Frontend Developer
+### A PASSIONATED SOFTWARE ENGINEER!
 
 💻 **About Me**
 
-I'm a MERN Stack Developer with a passion for crafting engaging, interactive, and efficient web applications. With a strong foundation in HTML, CSS, JavaScript, TypeScript, and modern libraries & frameworks like React.js Next.js, Vite, MongoDB, Express.js, I specialize in creating seamless user experiences and transforming designs into functional, responsive web interfaces. 
+I'm a passionate Software Engineer, a dedicated MERN Stack Developer with a passion for crafting engaging, interactive, and efficient web applications. With a strong foundation in HTML, CSS, JavaScript, TypeScript, and modern libraries & frameworks like React.js Next.js, Vite, MongoDB, Express.js, I specialize in creating seamless user experiences and transforming designs into functional, responsive web interfaces. 
 
 ---
 
@@ -98,12 +98,24 @@ Feel free to reach out if you have an interesting project, an opportunity, or ju
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="36" height="36" alt="VS Code" />
+    </a>
     </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" />
     </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="36" height="36" alt="VS Code" />
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+    </a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="36" height="36" alt="GitHub" />
+    </a>
+    <a href="https://desktop.github.com/" target="_blank" rel="noreferrer">
+        <img src="https://user-images.githubusercontent.com/22343382/166084472-f8bf7904-7c52-4e63-9989-76db1e0320b8.svg" width="36" height="36" alt="GitHub Desktop" />
+    </a>
+    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/vercelio/vercelio-icon.svg" width="36" height="36" alt="Vercel" />
     </a>
 </p>
 
@@ -120,7 +132,15 @@ Feel free to reach out if you have an interesting project, an opportunity, or ju
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
         </picture>
     </a>
+    <a href="https://www.linkedin.com/in/mromankhan/" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+        </picture>
+    </a>
 </p>
+
 
 ---
 
