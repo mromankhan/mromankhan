@@ -75,8 +75,6 @@ Feel free to reach out if you have an interesting project, an opportunity, or ju
     <a href="https://mui.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" />
     </a>
-
-    <!-- Frontend Frameworks -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
     </a>
