@@ -108,15 +108,18 @@ Feel free to reach out if you have an interesting project, an opportunity, or ju
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
     </a>
+   <p align="left">
     <a href="https://github.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="36" height="36" alt="GitHub" />
     </a>
     <a href="https://desktop.github.com/" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/22343382/166084472-f8bf7904-7c52-4e63-9989-76db1e0320b8.svg" width="36" height="36" alt="GitHub Desktop" />
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="36" height="36" alt="GitHub Desktop" />
     </a>
     <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/vercelio/vercelio-icon.svg" width="36" height="36" alt="Vercel" />
+        <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/57x57.png" width="36" height="36" alt="Vercel" />
     </a>
+</p>
+
 </p>
 
 
