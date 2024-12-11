@@ -6,17 +6,18 @@
 
 💻 **About Me**
 
-I'm a Frontend Developer with a passion for crafting engaging, interactive, and efficient web applications. With a strong foundation in HTML, CSS, JavaScript, TypeScript, and modern libraries like React.js and Next.js, I specialize in creating seamless user experiences and transforming designs into functional, responsive web interfaces. 
+I'm a MERN Stack Developer with a passion for crafting engaging, interactive, and efficient web applications. With a strong foundation in HTML, CSS, JavaScript, TypeScript, and modern libraries & frameworks like React.js Next.js, Vite, MongoDB, Express.js, I specialize in creating seamless user experiences and transforming designs into functional, responsive web interfaces. 
 
 ---
 
 ### 🛠️ Skills & Technologies
 
-- **Frontend Technologies:** HTML5, CSS3, JavaScript (ES6+), TypeScript
-- **UI Libraries:** React.js, Next.js
-- **Styling Tools:** Tailwind CSS, Bootstrap, SASS
-- **State Management:** Context API, Zustand, Redux
-- **Other Tools:** Firebase, Git, GitHub, Vercel, VS Code
+- **Frontend Technologies:** HTML5, CSS3, JavaScript (ES6+), TypeScript.
+- **Backend Technologies:** MongoDB, Express.js, Node.js.
+- **UI Libraries:** React.js, Next.js, Vite.
+- **Styling Tools:** Tailwind CSS, Bootstrap, SASS.
+- **State Management:** Context API, Zustand, Redux.
+- **Other Tools:** Firebase, Git, GitHub, Vercel, VS Code.
 
 ---
 
@@ -50,6 +51,7 @@ Feel free to reach out if you have an interesting project, an opportunity, or ju
 ### Skills
 
 <p align="left">
+    <!-- Basics -->
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
     </a>
@@ -62,6 +64,8 @@ Feel free to reach out if you have an interesting project, an opportunity, or ju
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
     </a>
+
+    <!-- Styling -->
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
     </a>
@@ -74,6 +78,8 @@ Feel free to reach out if you have an interesting project, an opportunity, or ju
     <a href="https://mui.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" />
     </a>
+
+    <!-- Frontend Frameworks -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
     </a>
@@ -83,16 +89,35 @@ Feel free to reach out if you have an interesting project, an opportunity, or ju
     <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
     </a>
+
+    <!-- Backend -->
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
+    </a>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express.js" />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+    </a>
+
+    <!-- Tools -->
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
     </a>
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" />
+    </a>
+
+    <!-- Code Editor -->
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="36" height="36" alt="VS Code" />
     </a>
 </p>
+
 
 ---
 
