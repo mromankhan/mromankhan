@@ -35,7 +35,7 @@ To continually grow as a developer, explore full-stack capabilities, and contrib
 
 ### 🤝 Let's Connect!
 
-Feel free to reach out if you have an interesting project, an opportunity, or just want to talk about frontend development!
+Feel free to reach out if you have an interesting project, an opportunity, or just want to talk about Full Stack development!
 
 - 🌍 I'm based in Pakistan
 - ✉️ You can contact me at [mromankhan005@gmail.com](mailto:mromankhan005@gmail.com)
