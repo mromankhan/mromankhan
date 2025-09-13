@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=5000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Muhammad+Roman;Full+Stack+Developer;Agentic+AI+Engineer;Frontend+%26+Backend+Expert;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=5000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Muhammad+Roman;Full+Stack+Developer;Agentic+AI+Engineer;Frontend+%26+Backend+Expert;" alt="Typing SVG" />
 </div>
 
 <h3 align="center">
@@ -18,7 +18,7 @@ Full Stack Developer @XponentialAI | Building the Future with AI
 
 ## 🙋‍♂️ About Me
 
-• 💻 **Full Stack Developer** specializing in **Agentic AI Development, Modern Web Apps & Responsive Design**  
+• 💻 **Full Stack Developer** specializing in **Agentic AI Development & Modern Web Apps**  
 • 🔭 Currently working on **AI-powered applications** and **intelligent automation**  
 • 🌱 Learning **Agentic AI, Advanced Next.js** and **AI Agent Development**  
 • 🎯 Focus: **Building smart, scalable applications** that solve real-world problems  
@@ -36,21 +36,14 @@ Full Stack Developer @XponentialAI | Building the Future with AI
 ### ⚙️ Backend Development  
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,prisma" />
 
-### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,vercel" />
+### 🗄️ Databases & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,vercel,git,github,jest" />
 
 ### 🤖 AI & Tools
-<img src="https://skillicons.dev/icons?i=git,github,jest" />
-<br/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-
-### 🎯 State Management & More
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Zustand-FF6B35?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
 </div>
 
@@ -94,25 +87,6 @@ Full Stack Developer @XponentialAI | Building the Future with AI
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=romankhan&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/romankhan/ai-chat-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=romankhan&repo=ai-chat-app&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/romankhan/ecommerce-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=romankhan&repo=ecommerce-platform&theme=tokyonight" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/romankhan/task-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=romankhan&repo=task-management-system&theme=tokyonight" />
-  </a>
 </div>
 
 ---
