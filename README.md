@@ -41,21 +41,22 @@ Full Stack Developer @XponentialAI | Building the Future with AI
 
 ### 🤖 AI & Tools
 
-  <!-- OpenAI -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="OpenAI" width="40" height="40" style="margin:0 5px;"/>
-  <br/>
-  <img src="https://img.shields.io/badge/OpenAI-Agents%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-  <!-- Google -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google.svg" alt="Google" width="40" height="40" style="margin:0 5px;"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Google-ADK-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-  <!-- N8N -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" alt="n8n" width="40" height="40" style="margin:0 5px;"/>
-  <br/>
-  <img src="https://img.shields.io/badge/N8N-Agent%20Builder-EA4B35?style=for-the-badge&logo=n8n&logoColor=white"/>
-
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="OpenAI" width="40" height="40"/><br/>
+        <img src="https://img.shields.io/badge/OpenAI-Agents%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+      </td>
+      <td align="center" width="200">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google.svg" alt="Google" width="40" height="40"/><br/>
+        <img src="https://img.shields.io/badge/Google-ADK-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+      </td>
+      <td align="center" width="200">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" alt="n8n" width="40" height="40"/><br/>
+        <img src="https://img.shields.io/badge/N8N-Agent%20Builder-EA4B35?style=for-the-badge&logo=n8n&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
