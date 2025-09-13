@@ -101,16 +101,16 @@ Full Stack Developer @XponentialAI | Building the Future with AI
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="mailto:roman.khan.dev@gmail.com">
+  <a href="mailto:mromankhan005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/roman-khan-dev">
+  <a href="[https://linkedin.com/in/roman-khan-dev](https://www.linkedin.com/in/mromankhan/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/roman_khan_dev">
+  <a href="[https://twitter.com/roman_khan_dev](https://x.com/RomanKhan00555)">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://roman-khan-portfolio.vercel.app">
+  <a href="[https://roman-khan-portfolio.vercel.app](https://mroman.vercel.app/)">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
@@ -118,5 +118,6 @@ Full Stack Developer @XponentialAI | Building the Future with AI
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=⭐%20From%20Pakistan%20with%20❤️%20|%20Building%20the%20future,%20one%20commit%20at%20a%20time&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=🚀%20Building%20the%20Future%20with%20AI%20%7C%20One%20Commit%20at%20a%20Time&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=70" />
 </div>
+
