@@ -41,17 +41,9 @@ Full Stack Developer @XponentialAI | Building the Future with AI
 
 ### 🤖 AI & Tools
 
-<img src="https://svgrepo.com/show/333607/stripe.svg" alt="Stripe" width="40" height="40" 
-  style="margin:0 5px; background:#1E293B; border:1px solid #334155; border-radius:8px; padding:6px;"/>
-
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" alt="n8n" width="40" height="40" 
-  style="margin:0 5px; background:#1E293B; border:1px solid #334155; border-radius:8px; padding:6px;"/>
-
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google.svg" alt="Google" width="40" height="40" 
-  style="margin:0 5px; background:#1E293B; border:1px solid #334155; border-radius:8px; padding:6px;"/>
-
- 
-
+<img src="https://svgrepo.com/show/333607/stripe.svg" alt="Stripe" width="40" height="40" style="margin:0 5px;"/> 
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" alt="n8n" width="40" height="40" style="margin:0 5px;"/
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google.svg" alt="Google" width="40" height="40" style="margin:0 5px;"/>
  
 </div>
 
@@ -59,22 +51,14 @@ Full Stack Developer @XponentialAI | Building the Future with AI
 
 ## 💼 Experience
 
-\`\`\`
-🚀 Frontend Developer @ XYZ Company                    2023 – Present
-   ├─ Building responsive web applications with React & Next.js
+🚀 Full Stack Agentic AI Developer @TalkifAI ( July 2025 - Present )
+   ├─ Building responsive web applications with React & Next.js <br/>
    ├─ Implementing AI-powered features and integrations
-   └─ Leading frontend architecture decisions
 
-🌟 Software Development Intern @ ABC Solutions         2022 – 2023  
-   ├─ Developed full-stack applications using MERN stack
-   ├─ Collaborated with senior developers on client projects
-   └─ Gained expertise in modern development practices
-
-💡 Freelance Developer                                 2021 – Present
-   ├─ Delivered 10+ successful web applications
-   ├─ Specialized in e-commerce and business solutions
-   └─ Built long-term client relationships
-\`\`\`
+🌟 Full Stack Developer @XponentialAI ( July 2025 – Present )
+   ├─ Building full-stack applications using MERN stack <br/>
+   ├─ Collaborating with senior developers on client projects <br/>
+   └─ Gaining expertise in modern development practices
 
 ---
 
