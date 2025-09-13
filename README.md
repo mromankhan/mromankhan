@@ -41,10 +41,21 @@ Full Stack Developer @XponentialAI | Building the Future with AI
 
 ### 🤖 AI & Tools
 
-<img src="https://svgrepo.com/show/333607/stripe.svg" alt="Stripe" width="40" height="40" style="margin:0 5px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" alt="n8n" width="40" height="40" style="margin:0 5px;"/
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google.svg" alt="Google" width="40" height="40" style="margin:0 5px;"/>
- 
+  <!-- OpenAI -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="OpenAI" width="40" height="40" style="margin:0 5px;"/>
+  <br/>
+  <img src="https://img.shields.io/badge/OpenAI-Agents%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+  <!-- Google -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google.svg" alt="Google" width="40" height="40" style="margin:0 5px;"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Google-ADK-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+  <!-- N8N -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" alt="n8n" width="40" height="40" style="margin:0 5px;"/>
+  <br/>
+  <img src="https://img.shields.io/badge/N8N-Agent%20Builder-EA4B35?style=for-the-badge&logo=n8n&logoColor=white"/>
+
 </div>
 
 ---
@@ -65,19 +76,10 @@ Full Stack Developer @XponentialAI | Building the Future with AI
 
 ## 🎯 Current Status
 
-- 💼 **Role:**  
-  ![Role](https://img.shields.io/badge/Full--Stack%20Agentic%20AI%20Developer-TalkifAI-6A5ACD?style=for-the-badge&logo=github)
-
-- 📚 **Learning:**  
-  ![Learning](https://img.shields.io/badge/Agentic%20AI-Exploration-FF6B6B?style=for-the-badge&logo=openai)  
-  ![Learning](https://img.shields.io/badge/Next.js%20%26%20AI-Integration-000000?style=for-the-badge&logo=nextdotjs)
-
-- 🚀 **Focus:**  
-  ![Focus](https://img.shields.io/badge/Smart%20Applications-Building-32CD32?style=for-the-badge&logo=vercel)
-
-- 🔍 **Exploring:**  
-  ![Exploring](https://img.shields.io/badge/AI%20Agents-Cutting%20Edge-FFB400?style=for-the-badge&logo=robotframework)
-
+- 💼 **Role:** Full Stack Agentic AI Developer @TalkifAI (July 2025 – Present)  
+- 📚 **Learning:** Advanced Agentic AI, Next.js & AI Integrations  
+- 🚀 **Focus:** Building Smart & Scalable Applications  
+- 🔍 **Exploring:** AI Agents & Cutting-edge AI Technologies
 
 ---
 
