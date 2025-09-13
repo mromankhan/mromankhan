@@ -1,155 +1,187 @@
-# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30" /> My name is Muhammad Roman
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Agentic+AI+Developer;Frontend+%26+Backend+Expert;Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
+</div>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  Hey there! I'm a Full Stack Developer
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub followers" />
+</div>
 
 ---
 
-### A PASSIONATED SOFTWARE ENGINEER!
+## 🚀 About Me
 
-💻 **About Me**
+> **Passionate Full Stack Developer** from **Pakistan** 🇵🇰, specializing in modern web technologies and cutting-edge **Agentic AI** development. I craft scalable, user-centric applications that bridge the gap between innovative design and robust functionality.
 
-I'm a passionate Software Engineer, a dedicated MERN Stack Developer with a passion for crafting engaging, interactive, and efficient web applications. With a strong foundation in HTML, CSS, JavaScript, TypeScript, and modern libraries & frameworks like React.js Next.js, Vite, MongoDB, Express.js, I specialize in creating seamless user experiences and transforming designs into functional, responsive web interfaces. 
-
----
-
-### 🛠️ Skills & Technologies
-
-- **Frontend Technologies:** HTML5, CSS3, JavaScript (ES6+), TypeScript.
-- **Backend Technologies:** MongoDB, Express.js, Node.js.
-- **UI Libraries:** React.js, Next.js, Vite.
-- **Styling Tools:** Tailwind CSS, Bootstrap, SASS.
-- **State Management:** Context API, Zustand, Redux.
-- **Other Tools:** Firebase, Git, GitHub, Vercel, VS Code.
+- 🔭 **Currently Learning:** Agentic AI Development & Advanced AI Agents
+- 💼 **Expertise:** Full Stack Development, Frontend & Backend Architecture
+- 🌱 **Focus:** Building intelligent, responsive web applications
+- 🎯 **Goal:** Contributing to the future of AI-powered web development
+- 📍 **Location:** Pakistan 🇵🇰
 
 ---
 
-### 🌟 What I’m Currently Working On
+## 🛠️ Tech Stack & Skills
 
-Building full-stack applications using Next.js and Firebase to create powerful, serverless solutions. Some current projects include:
-- A job application system
-- An expense tracking app, leveraging Firebase for seamless user authentication and data storage.
+### 🎨 Frontend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,vite" />
+</div>
 
-### 🚀 My Goal
+\`\`\`javascript
+const frontendSkills = {
+  languages: ['HTML5', 'CSS3', 'JavaScript (ES6+)', 'TypeScript'],
+  frameworks: ['React.js', 'Next.js'],
+  styling: ['Tailwind CSS', 'Bootstrap', 'SASS'],
+  tools: ['Vite'],
+  stateManagement: ['Context API', 'Zustand', 'Redux']
+};
+\`\`\`
 
-To continually grow as a developer, explore full-stack capabilities, and contribute to meaningful projects. I’m excited to collaborate on open-source projects and learn new technologies that push the boundaries of web development.
+### ⚙️ Backend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,mongodb,postgresql,firebase" />
+</div>
 
----
+\`\`\`python
+backend_expertise = {
+    "languages": ["Python", "Node.js"],
+    "frameworks": ["FastAPI", "Express.js"],
+    "databases": ["MongoDB", "PostgreSQL", "Firebase"],
+    "architecture": ["RESTful APIs", "Microservices"]
+}
+\`\`\`
 
-### 🤝 Let's Connect!
+### 🤖 AI & Development Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/N8N-FF6D6D?style=for-the-badge&logo=n8n&logoColor=white" />
+</div>
 
-Feel free to reach out if you have an interesting project, an opportunity, or just want to talk about Full Stack development!
+\`\`\`yaml
+AI_Development:
+  - OpenAI Agents SDK
+  - Google AI SDK  
+  - N8N Automation
+  - Agentic AI Systems (Currently Learning 🔥)
 
-- 🌍 I'm based in Pakistan
-- ✉️ You can contact me at [mromankhan005@gmail.com](mailto:mromankhan005@gmail.com)
-- 🧠 Currently I'm learning Backend skills
-- ⚡ Feel free to contact me
-
-<a href="https://www.github.com/mromankhan" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/mromankhan?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" />
-</a>
-
----
-
-### Skills
-
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-    </a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-    </a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-    </a>
-    <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" />
-    </a>
-    <a href="https://mui.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-    </a>
-    <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
-    </a>
-    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
-    </a>
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
-    </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express.js" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="36" height="36" alt="VS Code" />
-    </a>
-    </a>
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-    </a>
-    <a href="https://desktop.github.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="36" height="36" alt="GitHub Desktop" />
-    </a>
-    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-        <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/57x57.png" width="36" height="36" alt="Vercel" />
-    </a>
-</p>
-
-
+DevOps_Tools:
+  - Git & GitHub
+  - Vercel Deployment
+  - Version Control
+\`\`\`
 
 ---
 
-### Socials
+## 📊 GitHub Analytics
 
-<p align="left">
-    <a href="https://www.github.com/mromankhan" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-        </picture>
-    </a>
-    <a href="https://www.linkedin.com/in/mromankhan/" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-        </picture>
-    </a>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ---
 
-### Badges
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
+</div>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/mromankhan">
-    <img src="https://github-readme-stats.vercel.app/api?username=mromankhan&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="mromankhan's GitHub stats" />
-</a>
+## 🎯 Current Focus
 
-<a href="https://github.com/mromankhan" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mromankhan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=🤖+Learning+Agentic+AI;🚀+Building+Smart+Applications;💡+Exploring+AI+Agents;🔥+Next.js+%26+AI+Integration" alt="Current Focus" />
+</div>
+
+\`\`\`mermaid
+graph TD
+    A[🧠 Agentic AI] --> B[🤖 AI Agents]
+    A --> C[🔗 OpenAI SDK]
+    A --> D[📊 Google AI SDK]
+    B --> E[🚀 Smart Applications]
+    C --> E
+    D --> E
+    E --> F[🌟 Future Projects]
+\`\`\`
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/yourusername/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/yourusername/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight" />
+  </a>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" />
+</div>
+
+<div align="center">
+  <i>⭐ From Pakistan with ❤️ | Building the future, one commit at a time</i>
+</div>
+\`\`\`
+
+This README.md file includes:
+
+✨ **Modern Features:**
+- Animated typing effects
+- Professional badges and icons
+- GitHub stats and analytics
+- Skill visualization with icons
+- Mermaid diagram for current focus
+- Trophy display
+- Professional color scheme
+
+🎯 **Customization Needed:**
+1. Replace `yourusername` with your actual GitHub username
+2. Add your real email, LinkedIn, Twitter, and portfolio links
+3. Update project repository names in the Featured Projects section
+4. Add your actual project repositories
+
+🚀 **Professional Highlights:**
+- Showcases your full-stack expertise
+- Emphasizes your current Agentic AI learning journey
+- Displays all your technical skills in an organized manner
+- Includes your Pakistan location with pride
+- Modern, attractive design that stands out
+
