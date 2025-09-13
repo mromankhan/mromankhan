@@ -101,11 +101,20 @@ Full Stack Developer @XponentialAI | Building the Future with AI
 ## 🤝 Connect With Me
 
 <div align="center"> 
-<a href="mailto:mromankhan005@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-<a href="https://www.linkedin.com/in/mromankhan/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
-<a href="https://x.com/RomanKhan00555"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
-<a href="https://mroman.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> 
+  <a href="mailto:mromankhan005@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mromankhan/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="https://x.com/RomanKhan00555" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://mroman.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a> 
 </div>
+
 
 
 ---
