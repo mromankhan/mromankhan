@@ -51,11 +51,11 @@ Full Stack Developer @XponentialAI | Building the Future with AI
 
 ## 💼 Experience
 
-🚀 Full Stack Agentic AI Developer @TalkifAI ( July 2025 - Present )
+🚀 **Full Stack Agentic AI Developer @TalkifAI ( July 2025 - Present )** <br/>
    ├─ Building responsive web applications with React & Next.js <br/>
    ├─ Implementing AI-powered features and integrations
 
-🌟 Full Stack Developer @XponentialAI ( July 2025 – Present )
+🌟 **Full Stack Developer @XponentialAI ( July 2025 – Present )** <br/>
    ├─ Building full-stack applications using MERN stack <br/>
    ├─ Collaborating with senior developers on client projects <br/>
    └─ Gaining expertise in modern development practices
