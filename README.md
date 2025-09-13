@@ -1,17 +1,18 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Roman+Khan;Full+Stack+Developer;Agentic+AI+Developer;Frontend+%26+Backend+Expert;From+Pakistan+🇵🇰" alt="Typing SVG" />
-</div>
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Roman Khan
+  Muhammad Roman
 </h1>
 
-<h3 align="center">🚀 Frontend Developer @ XYZ Company | Building the Future with AI 🤖</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Muhammad+Roman;Full+Stack+Developer;Agentic+AI+Developer;Frontend+%26+Backend+Expert;" alt="Typing SVG" />
+</div>
+
+<h3 align="center">
+Full Stack Developer @XponentialAI | Building the Future with AI
+</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=romankhan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/romankhan?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
 ---
@@ -19,7 +20,6 @@
 ## 🙋‍♂️ About Me
 
 • 💻 **Full Stack Developer** specializing in **Agentic AI Development, Modern Web Apps & Responsive Design**  
-• 🌍 Based in **Pakistan** 🇵🇰  
 • 🔭 Currently working on **AI-powered applications** and **intelligent automation**  
 • 🌱 Learning **Agentic AI, Advanced Next.js** and **AI Agent Development**  
 • 🎯 Focus: **Building smart, scalable applications** that solve real-world problems  
