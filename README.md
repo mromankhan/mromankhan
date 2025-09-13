@@ -40,10 +40,11 @@ Full Stack Developer @XponentialAI | Building the Future with AI
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,vercel,git,github,jest" />
 
 ### 🤖 AI & Tools
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+ <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="OpenAI" width="40" height="40" style="margin:0 5px;"/>
+  <img src="https://svgrepo.com/show/333607/stripe.svg" alt="Stripe" width="40" height="40" style="margin:0 5px;"/>
+  <img src="https://svgrepo.com/show/342225/socket-io.svg" alt="Socket.io" width="40" height="40" style="margin:0 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" alt="n8n" width="40" height="40" style="margin:0 5px;"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,prisma" alt="Other Tech Icons" style="margin:0 5px;"/>
 
 </div>
 
