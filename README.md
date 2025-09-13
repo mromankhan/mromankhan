@@ -1,10 +1,9 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
   Muhammad Roman
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Muhammad+Roman;Full+Stack+Developer;Agentic+AI+Developer;Frontend+%26+Backend+Expert;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=5000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Muhammad+Roman;Full+Stack+Developer;Agentic+AI+Engineer;Frontend+%26+Backend+Expert;" alt="Typing SVG" />
 </div>
 
 <h3 align="center">
