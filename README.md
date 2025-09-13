@@ -40,7 +40,7 @@ Full Stack Developer @XponentialAI | Building the Future with AI
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,vercel,git,github,jest" />
 
 ### 🤖 AI & Tools
-<img src="https://skillicons.dev/icons?i=openai,stripe,socketio,n8n,nodejs,express,python,fastapi,prisma" />
+<img src="https://skillicons.dev/icons?i=openai,stripe,socketio,n8n" />
 </div>
 
 ---
