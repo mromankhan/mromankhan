@@ -63,11 +63,21 @@ Full Stack Developer @XponentialAI | Building the Future with AI
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Status
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=🤖+Learning+Agentic+AI;🚀+Building+Smart+Applications;🔍+Exploring+AI+Agents;⚡+Next.js+%26+AI+Integration" alt="Current Focus" />
-</div>
+- 💼 **Role:**  
+  ![Role](https://img.shields.io/badge/Full--Stack%20Agentic%20AI%20Developer-TalkifAI-6A5ACD?style=for-the-badge&logo=github)
+
+- 📚 **Learning:**  
+  ![Learning](https://img.shields.io/badge/Agentic%20AI-Exploration-FF6B6B?style=for-the-badge&logo=openai)  
+  ![Learning](https://img.shields.io/badge/Next.js%20%26%20AI-Integration-000000?style=for-the-badge&logo=nextdotjs)
+
+- 🚀 **Focus:**  
+  ![Focus](https://img.shields.io/badge/Smart%20Applications-Building-32CD32?style=for-the-badge&logo=vercel)
+
+- 🔍 **Exploring:**  
+  ![Exploring](https://img.shields.io/badge/AI%20Agents-Cutting%20Edge-FFB400?style=for-the-badge&logo=robotframework)
+
 
 ---
 
