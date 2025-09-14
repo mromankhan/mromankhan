@@ -12,7 +12,7 @@ Full Stack Developer @XponentialAI | Building the Future with AI
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=romankhan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  [![wakatime](https://wakatime.com/badge/user/434068b5-92e1-4393-b4f3-514c40be6e0c.svg)](https://wakatime.com/@434068b5-92e1-4393-b4f3-514c40be6e0c)
+  <img src="https://wakatime.com/badge/user/434068b5-92e1-4393-b4f3-514c40be6e0c.svg" alt="wakatime" />
 </div>
 
 
