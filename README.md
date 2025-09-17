@@ -124,4 +124,3 @@ Full Stack Developer @XponentialAI | Building the Future with AI
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=🚀%20Building%20the%20Future%20with%20AI%20%7C%20One%20Commit%20at%20a%20Time&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
 </div>
 
-
