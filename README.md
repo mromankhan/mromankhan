@@ -93,7 +93,7 @@ Full Stack Developer @XponentialAI | Building the Future with AI
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mromankhan&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mromankhan&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 
