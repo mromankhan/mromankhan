@@ -22,7 +22,7 @@ Full Stack Developer @XponentialAI | Building the Future with AI
 • 💻 **Full Stack Developer** specializing in **Agentic AI Development & Modern Web Apps**  
 • 🔭 Currently working on **AI-powered applications** and **intelligent automation**  
 • 🌱 Learning **Agentic AI, Advanced Next.js** and **AI Agent Development**  
-• 🎯 Focus: **Building smart, scalable applications** that solve real-world problems  
+• 🎯 Focus: **Building smart, scalable & custom AI Integrated applications** that solve real-world problems  
 • ⚡ Fun fact: I love turning complex problems into elegant solutions!
 
 ---
