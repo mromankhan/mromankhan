@@ -32,13 +32,7 @@ Full Stack Developer @XponentialAI | Building the Future with AI
 <div align="center">
 
 ### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,vite" />
-
-### ⚙️ Backend Development  
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,prisma" />
-
-### 🗄️ Databases & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,vercel,git,github,jest" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,vite,nodejs,express,python,fastapi,prisma,mongodb,postgresql,firebase,vercel,git,github,jest" />
 
 ### 🤖 AI Tools
 
