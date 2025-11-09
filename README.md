@@ -7,7 +7,7 @@
 </div>
 
 <h3 align="center">
-Full Stack Developer @XponentialAI | Building the Future with agentic AI
+Full Stack Developer @XponentialAI | Building the Future with AI
 </h3>
 
 <div align="center">
