@@ -74,7 +74,7 @@ Full Stack Developer @XponentialAI | Building the Future with AI
 ## 🎯 Current Status
 
 - 💼 **Role:** Full Stack Agentic AI Developer @TalkifAI (July 2025 – Present)  
-- 📚 **Learning:** Advanced Agentic AI & AI Integrations  
+- 📚 **Learning:** Cloud Native Agentic AI
 - 🚀 **Focus:** Building Smart & Scalable Applications  
 - 🔍 **Exploring:** Cloud Native AI Agents & Cutting-edge AI Technologies
 
