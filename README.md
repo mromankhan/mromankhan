@@ -7,7 +7,7 @@
 </div>
 
 <h3 align="center">
-Full Stack Developer @XponentialAI | Building the Future with AI
+Full Stack Developer @AIByTec | Building the Future with AI
 </h3>
 
 <div align="center">
@@ -59,11 +59,11 @@ Full Stack Developer @XponentialAI | Building the Future with AI
 
 ## 💼 Experience
 
-  🚀 **Full Stack Agentic AI Developer @TalkifAI ( July 2025 - Present )**
+  🚀 **Full Stack Agentic AI Developer @TalkifAI ( July 2025 - May 2026 )**
   - Building responsive web applications with React & Next.js  
   - Implementing AI-powered features and integrations  
 
- 🌟 **Full Stack Developer @XponentialAI ( July 2025 – Present )**
+ 🌟 **Full Stack Developer @XponentialAI ( July 2025 – May 2026 )**
   - Building full-stack applications using MERN stack  
   - Collaborating with senior developers on client projects  
   - Gaining expertise in modern development practices
@@ -73,7 +73,7 @@ Full Stack Developer @XponentialAI | Building the Future with AI
 
 ## 🎯 Current Status
 
-- 💼 **Role:** Full Stack Agentic AI Developer @TalkifAI (July 2025 – Present)  
+- 💼 **Role:** Full Stack Agentic AI Developer @AIByTec (Jan 2026 – Present)  
 - 📚 **Learning:** Cloud Native Agentic AI
 - 🚀 **Focus:** Building Smart & Scalable Applications  
 - 🔍 **Exploring:** Cloud Native AI Agents & Cutting-edge AI Technologies
