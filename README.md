@@ -7,7 +7,7 @@
 </div>
 
 <h3 align="center">
-Full Stack Developer @AIByTec | Building the Future with AI
+Full Stack Agentic AI Developer @AIByTec | Building the Future with AI
 </h3>
 
 <div align="center">
@@ -20,8 +20,8 @@ Full Stack Developer @AIByTec | Building the Future with AI
 ## 🙋‍♂️ About Me
 
 • 💻 **Full Stack Developer** specializing in **Agentic AI Development & Modern Web Apps**  
-• 🔭 Currently working on **AI-powered applications** and **intelligent automation**  
-• 🌱 Learning **Cloud Native Agentic AI** and **AI Agents Development**  
+• 🔭 Currently working on **AI-powered applications**, **multi-agent systems**, and **intelligent automation**  
+• 🌱 Learning **Cloud Native Agentic AI**, **MCP (Model Context Protocol)**, and advanced **AI Agent orchestration**  
 • 🎯 Focus: **Building smart, scalable & custom AI Integrated applications** that solve real-world problems  
 • ⚡ Fun fact: I love turning complex problems into elegant solutions!
 
@@ -33,23 +33,33 @@ Full Stack Developer @AIByTec | Building the Future with AI
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,vite,nodejs,express,python,fastapi,prisma" />
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,vercel,git,github,jest" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,vercel,git,github,docker,jest" />
 
 ### 🤖 AI Tech Stack & Skills
 
   <table>
     <tr>
-      <td align="center" width="200">
+      <td align="center" width="180">
         <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="OpenAI" width="40" height="40"/><br/>
         <img src="https://img.shields.io/badge/OpenAI-Agents%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white"/>
       </td>
-      <td align="center" width="200">
+      <td align="center" width="180">
         <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google.svg" alt="Google" width="40" height="40"/><br/>
         <img src="https://img.shields.io/badge/Google-ADK-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
       </td>
-      <td align="center" width="200">
+      <td align="center" width="180">
         <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" alt="n8n" width="40" height="40"/><br/>
         <img src="https://img.shields.io/badge/N8N-Agent%20Builder-EA4B35?style=for-the-badge&logo=n8n&logoColor=white"/>
+      </td>
+      <td align="center" width="180">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" alt="LangChain" width="40" height="40" onerror="this.style.display='none'"/><br/>
+        <img src="https://img.shields.io/badge/LangChain-LangGraph-1C3C3C?style=for-the-badge"/>
+      </td>
+      <td align="center" width="180">
+        <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6E56CF?style=for-the-badge"/>
+      </td>
+      <td align="center" width="180">
+        <img src="https://img.shields.io/badge/Anthropic-Claude%20SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
       </td>
     </tr>
   </table>
@@ -59,24 +69,28 @@ Full Stack Developer @AIByTec | Building the Future with AI
 
 ## 💼 Experience
 
-  🚀 **Full Stack Agentic AI Developer @TalkifAI ( July 2025 - May 2026 )**
-  - Building responsive web applications with React & Next.js  
-  - Implementing AI-powered features and integrations  
+🚀 **Full Stack Agentic AI Developer @AIByTec** *(Jan 2026 – Present)*
+- Building smart & scalable AI-integrated applications
+- Working on Cloud Native Agentic AI systems and intelligent automation
+- Designing multi-agent workflows for production use cases
 
- 🌟 **Full Stack Developer @XponentialAI ( July 2025 – May 2026 )**
-  - Building full-stack applications using MERN stack  
-  - Collaborating with senior developers on client projects  
-  - Gaining expertise in modern development practices
+🌟 **Full Stack Agentic AI Developer @TalkifAI** *(July 2025 – May 2026)*
+- Built responsive web applications with React & Next.js
+- Implemented AI-powered features and integrations
 
+💻 **Full Stack Developer @XponentialAI** *(July 2025 – May 2026)*
+- Built full-stack applications using the MERN stack
+- Collaborated with senior developers on client projects
+- Gained expertise in modern development practices
 
 ---
 
 ## 🎯 Current Status
 
 - 💼 **Role:** Full Stack Agentic AI Developer @AIByTec (Jan 2026 – Present)  
-- 📚 **Learning:** Cloud Native Agentic AI
-- 🚀 **Focus:** Building Smart & Scalable Applications  
-- 🔍 **Exploring:** Cloud Native AI Agents & Cutting-edge AI Technologies
+- 📚 **Learning:** Cloud Native Agentic AI & MCP-based agent architectures  
+- 🚀 **Focus:** Building smart, scalable, and production-ready AI applications  
+- 🔍 **Exploring:** Multi-agent orchestration & cutting-edge AI technologies
 
 ---
 
@@ -117,4 +131,3 @@ Full Stack Developer @AIByTec | Building the Future with AI
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=🚀%20Building%20the%20Future%20with%20AI%20%7C%20One%20Commit%20at%20a%20Time&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
 </div>
-
